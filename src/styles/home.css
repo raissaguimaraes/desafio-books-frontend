@@ -1,0 +1,83 @@
+.home-background{
+    background-image: url('../public/bgHome.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;   
+}
+
+.header{
+    height: 40px;
+    width: 1130px;
+    left: 115px;
+    top: 40px;
+    border-radius: 0px;
+    position: absolute;
+    display: flex;
+}
+
+.logo-div{
+    height: 36px;
+    width: 104.4px;
+    left: 115px;
+    top: 40px;
+    border-radius: 0px;
+    margin-right: 16px;
+}
+
+.title-div{
+    height: 40px;
+    width: 77px;
+    left: 236px;
+    top: 40px;
+    margin-right: 763px;   
+}
+
+.home-title{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 28px;
+    line-height: 40px;
+    color: #333333;
+    
+}
+
+.welcome-div{
+    height: 32px;
+    width: 169px;
+    left: 1076px;
+    top: 44px;
+    border-radius: 0px;
+    display: flex;
+    align-items: center;
+
+}
+
+
+.greeting-title{
+    font-family: Heebo;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0em;
+    margin-right: 16px;
+}
+
+.greeting username{
+    font-weight: 500;
+}
+
+
+.card{
+    height: 160px;
+    width: 272px;
+    left: 979px;
+    top: 472px;
+    border-radius: [object Object]px;
+
+}
+
+.button-log-out{
+    border: none;
+    outline: none;
+    background: none;
+}
